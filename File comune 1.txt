@@ -1,2 +1,3 @@
 Questo è codice da condividere tra progetti
 Modifica al primo file comune
+Modificato come submodule del progetto2
